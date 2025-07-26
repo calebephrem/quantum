@@ -1,0 +1,53 @@
+{
+  "name": "quantum",
+  "displayName": "Quantum",
+  "description": "Beautify your workspace with the best combos of blue, lime, yellow, purple and cyan accents!",
+  "publisher": "PandaProg",
+  "version": "0.0.1",
+  "author": {
+    "name": "PandaProg",
+    "email": "quantumpandaprog@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pandaproggit/quantum"
+  },
+  "bugs": {
+    "url": "https://github.com/pandaproggit/quantum/issues",
+    "email": "quantumpandaprog@gmail.com"
+  },
+  "icon": "assets/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "quantum",
+    "quantum theme",
+    "cobalt",
+    "cobalt theme",
+    "dark",
+    "dark theme",
+    "blue",
+    "blue theme",
+    "lime",
+    "lime theme",
+    "shades of blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quantum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Quantum.json"
+      },
+      {
+        "label": "Quantum Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Quantum-dark.json"
+      }
+    ]
+  }
+}
