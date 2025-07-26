@@ -1,0 +1,31 @@
+Custom License for VS Code Color Theme
+Based on MIT License, with Additional Restrictions
+
+Copyright (c) 2025 PandaProg
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this theme and associated documentation files (the “Theme”), to use, copy,
+modify, merge, publish, and distribute the Theme for personal, educational,
+or commercial purposes, subject to the following conditions:
+
+1. You **may not sell** copies of the Theme, either individually or as part of
+   a collection, without prior written permission from the copyright holder.
+
+2. You **may not publish** a clone or modified version of the Theme as a new
+   extension on the Visual Studio Code Marketplace or similar extension platforms.
+
+3. You **may not alter or remove this license file** or claim authorship or original
+   design of this Theme.
+
+4. You **may modify** the Theme for personal or internal use, or as part of a larger
+   project, provided attribution to "PandaProg" remains visible and unambiguous.
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Theme.
+
+THE THEME IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE THEME OR THE USE OR OTHER DEALINGS IN THE THEME.
