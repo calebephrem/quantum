@@ -97,7 +97,7 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ### 🛠️ If You Want To Customize The Theme
 
-You can clone the repository and customize the theme as you want. Read the [license](./LICENSE) before you start combo-ing.
+You can clone the repository and customize the theme as you want. Read the license before you start combo-ing.
 
 - First clone the [github repository](https://github.com/pandaproggit/quantum).
 - Open the cloned folder in vscode.
