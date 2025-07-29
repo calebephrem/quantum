@@ -118,7 +118,7 @@
     "editor.lineHighlightBorder": "#24257350",
     "editorLink.activeForeground": "#8672ff",
     "editorWhitespace.foreground": "#6c738099",
-    "editorIndentGuide.background1": "#1972d230",
+    "editorIndentGuide.background1": "#1972d232",
     "editorIndentGuide.activeBackground1": "#1972d250",
     "editorRuler.foreground": "#6c738033",
     "editorCodeLens.foreground": "#acb6bf8c",
@@ -553,7 +553,7 @@
       "name": "Gitignore file",
       "scope": ["source.ignore"],
       "settings": {
-        "foreground": "#af8fff",
+        "foreground": "#9080ff",
         "fontStyle": "italic"
       }
     },
