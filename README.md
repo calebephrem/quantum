@@ -8,7 +8,9 @@
 
 - The Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
 
-- If you don't like italic (cursive) fonts in your code, there are themes included for you too: **Quantum (non-italicized)** and also **Quantum Dark (non-italicized)**, which is a darker clone.
+- If you don't like italic (cursive) fonts in your code, there are themes included for you too: **Quantum (non-italicized)** and also **Quantum Dark (non-italicized)**.
+
+- If you want to see more borders in your workplace, there is also bordered versions of the theme: **Quantum (bordered)** and **Quantum Dark (bordered)**.
 
 ### ⬇️ Installation
 

@@ -50,6 +50,16 @@
         "path": "./themes/Quantum-dark.json"
       },
       {
+        "label": "Quantum (bordered)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Quantum-bordered.json"
+      },
+      {
+        "label": "Quantum Dark (bordered)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Quantum-dark-bordered.json"
+      },
+      {
         "label": "Quantum (non-italicized)",
         "uiTheme": "vs-dark",
         "path": "./themes/Quantum-non-italicized.json"
