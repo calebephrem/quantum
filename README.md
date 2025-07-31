@@ -1,18 +1,60 @@
-# QUANTUM THEME FOR VSCODE
+# ⚛️ QUANTUM THEME FOR VSCODE!
 
 > Best blue, lime, yellow, purple and cyan color comboed theme!
 
 ![Preview](https://github.com/pandaproggit/quantum/blob/main/assets/screenshot.png)
 
-### 🎨 The Theme...
+## 🎨 The Quantum ~~physics~~ Theme ...
 
-- The Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
-
-- If you don't like italic (cursive) fonts in your code, there are themes included for you too: **Quantum (non-italicized)** and also **Quantum Dark (non-italicized)**.
+- Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
 
 - If you want to see more borders in your workplace, there is also bordered versions of the theme: **Quantum (bordered)** and **Quantum Dark (bordered)**.
 
-### ⬇️ Installation
+- If you don't want to see italic (cursive) fonts in your code, there are themes included for you too: **Quantum (non-italicized)** and also **Quantum Dark (non-italicized)**.
+
+- Generally, Quantum theme provides:
+
+<table>
+  <thead>
+    <th>Theme</th>
+    <th>Description</th>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Quantum</td>
+      <td>Default, preferred, legendary</td>
+      <td>💪</td>
+    </tr>
+    <tr>
+      <td>Quantum Dark</td>
+      <td>* when u enable dark mode on "Quantum"</td>
+      <td>👻</td>
+    </tr>
+    <tr>
+      <td>Quantum Bordered</td>
+      <td>Perfect clone of "Quantum", but with additional borders</td>
+      <td>🤠</td>
+    </tr>
+    <tr>
+      <td>Quantum Dark Bordered</td>
+      <td>Quantum Dark + additional borders</td>
+      <td>🚫</td>
+    </tr>
+    <tr>
+      <td>Quantum Non-Italicized</td>
+      <td>Quantum theme for italic haters</td>
+      <td>😼</td>
+    </tr>
+    <tr>
+      <td>Quantum Dark Non-Italicized</td>
+      <td>Italic-less version of Quantum Dark</td>
+      <td>🥸</td>
+    </tr>
+  </tbody>
+</table>
+
+## ⬇️ Installation
 
 1. Open Extensions by clicking on the extension icon on the left sidebar panel in your VS Code
 2. Search **Quantum**
@@ -23,13 +65,13 @@
 7. Then click on `Quantum` (or other variants of it)
 8. Give the [repo](https://github.com/pandaproggit/quantum) a ⭐star
 
-Walla! You have the Quantum theme activated!
+🔥 Walla! You have the Quantum theme activated! ⚡
 
-### ⚙️ Recommended Settings
+## ⚙️ Recommended Settings
 
 These are just settings that are recommended to make the theme even look better ✨
 
-Edit these in _settings.json_ file in your VS Code. Expand the command palette (`ctrl+shift+P`) and go under `Preferences: Open User Settings (JSON)`.
+Edit these in _settings.json_ file in your VS Code. Expand the command palette (`ctrl+shift+P`) and search `Preferences: Open User Settings (JSON)`.
 
 The settings under _optional_ are the settings that you can add if you want, but you can also ignore if you don't want them (the ones under _optional_ are not that important 🙃).
 
@@ -49,35 +91,28 @@ The settings under _optional_ are the settings that you can add if you want, but
   // Download and install the font for free from https://github.com/willfore/vscode_operator_mono_lig
   "editor.fontFamily": "Operator Mono Lig, Cascadia Code, JetBrains Mono, Fira Code, monospace",
   "editor.letterSpacing": 0.5, // don't add this if you are using vanilla monospace
-  "editor.fontLigatures": true,
   "editor.fontWeight": "normal",
+  "editor.fontLigatures": true,
+  "editor.glyphMargin": true,
   "editor.tabSize": 2, // 3 is also fine
   "editor.cursorStyle": "line",
   "editor.cursorBlinking": "expand",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorWidth": 0, // 0 is default setting (default = 2), 3 is also fine
-  "files.trimTrailingWhitespace": true,
+  "editor.guides.bracketPairs": false,
   "editor.wordWrap": "on",
   "editor.hover.delay": 500,
+  "files.trimTrailingWhitespace": true,
   "terminal.integrated.fontFamily": "JetBrains Mono, Operator Mono Lig, Cascadia Code, Fira Code, monospace",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorWidth": 2,
   "terminal.integrated.fontLigatures.enabled": true,
-  "editor.guides.bracketPairs": false,
-  "editor.quickSuggestions": {
-    "strings": "inline"
-  },
 
   // Formatting
   // Download the Prettier extension if you haven't already
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.singleQuote": true,
   "editor.formatOnSave": true, // this one is optional
-  "prettier.eslintIntegration": true,
-  "eslint.run": "onType",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
 
   // Remove or comment out all other color customizations and follow Quantum theme :)
   "workbench.colorCustomizations": {},
@@ -89,15 +124,21 @@ The settings under _optional_ are the settings that you can add if you want, but
   "files.autoSave": "off",
   "editor.acceptSuggestionOnEnter": "off",
   "explorer.confirmDragAndDrop": false,
-  "terminal.integrated.enableMultiLinePasteWarning": "never"
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "editor.quickSuggestions": {
+    "strings": "inline"
+  },
+  // Additional settings for macOS
+  "workbench.fontAliasing": "auto",
+  "workbench.statusBar.feedback.visible": false
 }
 ```
 
 > Again, you can download and install the _Operator Mono Lig_ font for free from https://github.com/willfore/vscode_operator_mono_lig.
 
-### 🛠️ If You Want To Customize The Theme
+## 🛠️ If You Want To Customize The Theme
 
-You can clone the repository and customize the theme as you want. Read the license before you start combo-ing.
+You can clone the repository and customize the theme as you want. **⚠️ Read the license before you start combo-ing**.
 
 - First clone the [github repository](https://github.com/pandaproggit/quantum).
 - Open the cloned folder in vscode.
@@ -112,4 +153,4 @@ git clone https://github.com/pandaproggit/quantum.git
 
 ⭐ Don't forget to [star the repo](https://github.com/pandaproggit/quantum) to support me! Thanks 😁
 
-**Enjoy! 😎**
+### Enjoy! 😎
