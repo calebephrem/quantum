@@ -4,7 +4,7 @@
 
 ![Preview](https://github.com/pandaproggit/quantum/blob/main/assets/screenshot.png)
 
-## 🎨 The Quantum ~~physics~~ Theme ...
+## 🎨 The Quantum ~~Physics~~ Theme ...
 
 - Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
 
@@ -83,9 +83,10 @@ The settings under _optional_ are the settings that you can add if you want, but
   "workbench.productIconTheme": "fluent-icons",
   // download Material Icon Theme extension
   "workbench.iconTheme": "material-icon-theme",
-  "material-icon-theme.folders.color": "#e0c060",
-  "material-icon-theme.files.color": "#90a4ae",
   "material-icon-theme.hidesExplorerArrows": true,
+  "material-icon-theme.files.color": "#9fafaf",
+  // If you want folders to look similar to windows folder, instead of #40a0f0 use #e0c060
+  "material-icon-theme.folders.color": "#40a0f0",
 
   // Appearance
   // Download and install the font for free from https://github.com/willfore/vscode_operator_mono_lig

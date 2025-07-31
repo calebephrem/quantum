@@ -12,7 +12,8 @@
     "textBlockQuote.background": "#1972d20d",
     "textLink.foreground": "#80f070",
     "textLink.activeForeground": "#8f7fff",
-    "textPreformat.foreground": "#bfbdb6",
+    "textPreformat.foreground": "#ccccdd",
+    "textPreformat.background": "#0a0a3f",
     "button.background": "#1f2faf",
     "button.foreground": "#ddddff",
     "button.hoverBackground": "#2f3fbf",
@@ -36,9 +37,9 @@
     "inputValidation.warningBackground": "#040520",
     "inputValidation.warningBorder": "#ffb454",
     "scrollbar.shadow": "#1e232b00",
-    "scrollbarSlider.background": "#1972d255",
-    "scrollbarSlider.hoverBackground": "#1972d288",
-    "scrollbarSlider.activeBackground": "#1972d299",
+    "scrollbarSlider.background": "#1972d244",
+    "scrollbarSlider.hoverBackground": "#1972d255",
+    "scrollbarSlider.activeBackground": "#1972d266",
     "badge.background": "#1972d233",
     "badge.foreground": "#1972d2",
     "progressBar.background": "#1872ff",
@@ -100,8 +101,8 @@
     "editorLineNumber.foreground": "#6c7380aa",
     "editorLineNumber.activeForeground": "#1972d2",
     "editorCursor.foreground": "#00ffff",
-    "editor.inactiveSelectionBackground": "#409fff1a",
-    "editor.selectionBackground": "#409fff1f",
+    "editor.selectionBackground": "#409fff27",
+    "editor.inactiveSelectionBackground": "#409fff17",
     "editor.selectionHighlightBackground": "#7fd96226",
     "editor.selectionHighlightBorder": "#7fd96200",
     "editor.wordHighlightBackground": "#73b8ff14",
@@ -273,7 +274,7 @@
       "name": "Regular Expressions and Escape Characters",
       "scope": ["string.regexp", "constant.character", "constant.other"],
       "settings": {
-        "foreground": "#ffdd70"
+        "foreground": "#00ddee"
       }
     },
     {
@@ -424,7 +425,7 @@
       "name": "Function arguments",
       "scope": ["variable.parameter", "meta.parameter"],
       "settings": {
-        "foreground": "#bb99ff"
+        "foreground": "#bf9fff"
       }
     },
     {
@@ -443,7 +444,7 @@
       "name": "Library function",
       "scope": ["support.function", "support.macro"],
       "settings": {
-        "foreground": "#00ddee"
+        "foreground": "#00ccdd"
       }
     },
     {
@@ -663,14 +664,14 @@
         "variable.parameter.keyframe-list.scss"
       ],
       "settings": {
-        "foreground": "#9090ff"
+        "foreground": "#8683f9"
       }
     },
     {
       "name": "Python magic methods ex. __contains__()",
       "scope": ["support.function.magic.python"],
       "settings": {
-        "foreground": "#9090ff"
+        "foreground": "#8683f9"
       }
     },
     {
@@ -847,6 +848,13 @@
       "settings": {
         "background": "#bfbdb6",
         "foreground": "#acb6bf8c"
+      }
+    },
+    {
+      "name": "Markdown - Math",
+      "scope": ["meta.embedded.math.markdown"],
+      "settings": {
+        "foreground": "#30f090"
       }
     }
   ],
