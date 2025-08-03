@@ -8,7 +8,7 @@
 
 - Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
 
-- If you want to see more borders in your workplace, there is also bordered versions of the theme: **Quantum (bordered)** and **Quantum Dark (bordered)**.
+- If you want to see more semi-transparent borders in your workplace, there is also bordered versions of the theme: **Quantum (bordered)** and **Quantum Dark (bordered)**.
 
 - If you don't want to see italic (cursive) fonts in your code, there are themes included for you too: **Quantum (non-italicized)** and also **Quantum Dark (non-italicized)**.
 
@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>Quantum Dark</td>
-      <td>* when u enable dark mode on "Quantum"</td>
+      <td>Darker version of "Quantum"</td>
       <td>👻</td>
     </tr>
     <tr>
@@ -102,6 +102,7 @@ The settings under _optional_ are the settings that you can add if you want, but
   "editor.cursorWidth": 0, // 0 is default setting (default = 2), 3 is also fine
   "editor.guides.bracketPairs": false,
   "editor.wordWrap": "on",
+  "breadcrumbs.enabled": false,
   "editor.hover.delay": 500,
   "files.trimTrailingWhitespace": true,
   "terminal.integrated.fontFamily": "JetBrains Mono, Operator Mono Lig, Cascadia Code, Fira Code, monospace",
@@ -136,19 +137,6 @@ The settings under _optional_ are the settings that you can add if you want, but
 ```
 
 > Again, you can download and install the _Operator Mono Lig_ font for free from https://github.com/willfore/vscode_operator_mono_lig.
-
-## 🛠️ If You Want To Customize The Theme
-
-You can clone the repository and customize the theme as you want. **⚠️ Read the license before you start combo-ing**.
-
-- First clone the [github repository](https://github.com/pandaproggit/quantum).
-- Open the cloned folder in vscode.
-- Then you can modify the _json_ files under the **themes** folder by coming up with your own color combos!
-- If you are interested in making color themes, you can view [documentations](https://code.visualstudio.com/api/extension-guides/color-theme) on how to do it.
-
-```bash
-git clone https://github.com/pandaproggit/quantum.git
-```
 
 🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use.
 

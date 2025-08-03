@@ -203,7 +203,7 @@
     "pickerGroup.border": "#1e232b",
     "pickerGroup.foreground": "#565b6680",
     "debugToolBar.background": "#000017",
-    "debugToolBar.border": "#1972d266",
+    "debugToolBar.border": "#1972d244",
     "debugIcon.breakpointForeground": "#3090f0",
     "debugIcon.breakpointDisabledForeground": "#3090f088",
     "debugConsoleInputIcon.foreground": "#1972d2",
@@ -253,7 +253,7 @@
       "scope": ["comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ffffff66"
+        "foreground": "#ffffff70"
       }
     },
     {
@@ -490,7 +490,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#39bae6aa"
+        "foreground": "#0fafff88"
       }
     },
     {
