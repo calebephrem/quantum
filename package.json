@@ -2,13 +2,13 @@
   "name": "quantum",
   "displayName": "Quantum",
   "description": "Beautify your workspace with the best combos of blue, lime, yellow, purple and cyan accents!",
+  "icon": "assets/icon.png",
+  "version": "0.0.1",
   "publisher": "PandaProg",
   "author": {
     "name": "PandaProg",
     "email": "quantumpandaprog@gmail.com"
   },
-  "version": "0.0.1",
-  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.54.0"
   },

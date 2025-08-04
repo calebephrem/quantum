@@ -62,7 +62,7 @@
 4. Press `ctrl+shift+P` to expand the command palette (`cmd+shift+P` on mac)
 5. Go under `Preferences: Color Theme`
 6. Search **Quantum**
-7. Then click on `Quantum` (or other variants of it)
+7. Then click on **Quantum** (or other variants of it)
 8. Give the [repo](https://github.com/pandaproggit/quantum) a ⭐star
 
 🔥 Walla! You have the Quantum theme activated! ⚡
@@ -136,6 +136,8 @@ The settings under _optional_ are the settings that you can add if you want, but
 }
 ```
 
+> Again, you can download and install the _Operator Mono Lig_ font for free from https://github.com/willfore/vscode_operator_mono_lig.
+
 ## 📷 Screenshots
 
 ### CSS + SCSS
@@ -153,8 +155,6 @@ The settings under _optional_ are the settings that you can add if you want, but
 ### HTML + Markdown
 
 ![html+markdown](https://github.com/pandaproggit/quantum/blob/main/assets/html-markdown.png)
-
-> Again, you can download and install the _Operator Mono Lig_ font for free from https://github.com/willfore/vscode_operator_mono_lig.
 
 🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use.
 
