@@ -2,7 +2,7 @@
 
 > Best blue, lime, yellow, purple and cyan color comboed theme!
 
-![Preview](https://github.com/pandaproggit/quantum/blob/main/assets/screenshot.png)
+![Preview](https://github.com/pandaproggit/quantum/blob/main/assets/preview.png)
 
 ## 🎨 The Quantum ~~Physics~~ Theme ...
 
@@ -135,6 +135,24 @@ The settings under _optional_ are the settings that you can add if you want, but
   "workbench.statusBar.feedback.visible": false
 }
 ```
+
+## 📷 Screenshots
+
+### CSS + SCSS
+
+![css+scss](https://github.com/pandaproggit/quantum/blob/main/assets/css-scss.png)
+
+### Nodejs + mongodb (default playground template)
+
+![node+mongo](https://github.com/pandaproggit/quantum/blob/main/assets/node-mongo.png)
+
+### Python + React
+
+![python+react](https://github.com/pandaproggit/quantum/blob/main/assets/python-react.png)
+
+### HTML + Markdown
+
+![html+markdown](https://github.com/pandaproggit/quantum/blob/main/assets/html-markdown.png)
 
 > Again, you can download and install the _Operator Mono Lig_ font for free from https://github.com/willfore/vscode_operator_mono_lig.
 
