@@ -210,12 +210,12 @@
     "welcomePage.tileBackground": "#040520",
     "welcomePage.progress.background": "#131721",
     "walkThrough.embeddedEditorBackground": "#0f131a",
-    "gitDecoration.untrackedResourceForeground": "#70b0f0ee",
-    "gitDecoration.addedResourceForeground": "#60dd60ee",
+    "gitDecoration.untrackedResourceForeground": "#60a0e0ee",
+    "gitDecoration.addedResourceForeground": "#10c090ee",
     "gitDecoration.modifiedResourceForeground": "#00c0d0ee",
-    "gitDecoration.deletedResourceForeground": "#ff8f9fee",
+    "gitDecoration.deletedResourceForeground": "#f08090ee",
     "gitDecoration.ignoredResourceForeground": "#b0b0b0ee",
-    "gitDecoration.submoduleResourceForeground": "#d2a6ffee",
+    "gitDecoration.submoduleResourceForeground": "#d0a0f0ee",
     "settings.headerForeground": "#dddddd",
     "settings.modifiedItemIndicator": "#8972d2",
     "keybindingLabel.background": "#1972d210",
@@ -665,6 +665,26 @@
       ],
       "settings": {
         "foreground": "#8683f9"
+      }
+    },
+    {
+      "name": "JSON key strings",
+      "scope": [
+        "punctuation.support.type.property-name.begin.json",
+        "punctuation.support.type.property-name.end.json"
+      ],
+      "settings": {
+        "foreground": "#0fafffcc"
+      }
+    },
+    {
+      "name": "JSON value strings",
+      "scope": [
+        "punctuation.definition.string.begin.json",
+        "punctuation.definition.string.end.json"
+      ],
+      "settings": {
+        "foreground": "#aaff4fdd"
       }
     },
     {
