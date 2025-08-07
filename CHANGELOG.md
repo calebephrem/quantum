@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "Quantum" extension will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Initial release, introduced:
 
-## [Unreleased]
-
-- Initial release
+  - Quantum
+  - Quantum Dark
+  - Quantum bordered
+  - Quantum Dark bordered
+  - Quantum non-italicized
+  - Quantum Dark non-italicized
