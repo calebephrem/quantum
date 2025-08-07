@@ -2,7 +2,7 @@
 
 > Best blue, lime, yellow, purple and cyan color comboed theme!
 
-![Preview](https://github.com/pandaproggit/quantum/blob/main/assets/preview.png)
+![Preview](https://github.com/calebephrem/quantum/blob/main/assets/preview.png)
 
 ## 🎨 The Quantum ~~Physics~~ Theme ...
 
@@ -63,7 +63,7 @@
 5. Go under `Preferences: Color Theme`
 6. Search **Quantum**
 7. Then click on **Quantum** (or other variants of it)
-8. Give the [repo](https://github.com/pandaproggit/quantum) a ⭐star
+8. Give the [repo](https://github.com/calebephrem/quantum) a ⭐star
 
 🔥 Walla! You have the Quantum theme activated! ⚡
 
@@ -142,22 +142,22 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ### CSS + SCSS
 
-![css+scss](https://github.com/pandaproggit/quantum/blob/main/assets/css-scss.png)
+![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/css-scss.png)
 
 ### Nodejs + mongodb (default playground template)
 
-![node+mongo](https://github.com/pandaproggit/quantum/blob/main/assets/node-mongo.png)
+![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/node-mongo.png)
 
 ### Python + React
 
-![python+react](https://github.com/pandaproggit/quantum/blob/main/assets/python-react.png)
+![python+react](https://github.com/calebephrem/quantum/blob/main/assets/python-react.png)
 
 ### HTML + Markdown
 
-![html+markdown](https://github.com/pandaproggit/quantum/blob/main/assets/html-markdown.png)
+![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/html-markdown.png)
 
 🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use.
 
-⭐ Don't forget to [star the repo](https://github.com/pandaproggit/quantum) to support me! Thanks 😁
+⭐ Don't forget to [star the repo](https://github.com/calebephrem/quantum) to support me! Thanks 😁
 
 ### Enjoy! 😎

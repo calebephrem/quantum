@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "publisher": "PandaProg",
   "author": {
-    "name": "PandaProg",
+    "name": "Caleb Ephrem",
     "email": "quantumpandaprog@gmail.com"
   },
   "engines": {
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pandaproggit/quantum"
+    "url": "https://github.com/calebephrem/quantum"
   },
   "bugs": {
-    "url": "https://github.com/pandaproggit/quantum/issues",
+    "url": "https://github.com/calebephrem/quantum/issues",
     "email": "quantumpandaprog@gmail.com"
   },
   "categories": [
