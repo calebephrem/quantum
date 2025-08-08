@@ -1,6 +1,6 @@
 # ⚛️ QUANTUM THEME FOR VSCODE!
 
-> Best blue, lime, yellow, purple and cyan color comboed theme!
+The best blue, lime, yellow, purple and cyan color comboed theme!
 
 ![Preview](https://github.com/calebephrem/quantum/blob/main/assets/preview.png)
 
@@ -142,19 +142,19 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ### CSS + SCSS
 
-![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/css-scss.png)
+![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/css-scss.png)
 
 ### Nodejs + mongodb (default playground template)
 
-![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/node-mongo.png)
+![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/node-mongo.png)
 
 ### Python + React
 
-![python+react](https://github.com/calebephrem/quantum/blob/main/assets/python-react.png)
+![python+react](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/python-react.png)
 
 ### HTML + Markdown
 
-![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/html-markdown.png)
+![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/html-markdown.png)
 
 🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use.
 
