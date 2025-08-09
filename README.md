@@ -58,7 +58,7 @@ The best blue, lime, yellow, purple and cyan color comboed theme!
 
 1. Open Extensions by clicking on the extension icon on the left sidebar panel in your VS Code
 2. Search **Quantum**
-3. Install the one by _PandaProg_
+3. Install the one by _Caleb Ephrem_
 4. Press `ctrl+shift+P` to expand the command palette (`cmd+shift+P` on mac)
 5. Go under `Preferences: Color Theme`
 6. Search **Quantum**
