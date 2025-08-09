@@ -1,12 +1,14 @@
 # Change Log
 
-## 1.0.0
+## `v1.0.0`
 
-- Initial release, introduced:
+- Initial release
 
-  - Quantum
-  - Quantum Dark
-  - Quantum bordered
-  - Quantum Dark bordered
-  - Quantum non-italicized
-  - Quantum Dark non-italicized
+### ✨ Introduced
+
+- Quantum
+- Quantum Dark
+- Quantum bordered
+- Quantum Dark bordered
+- Quantum non-italicized
+- Quantum Dark non-italicized
