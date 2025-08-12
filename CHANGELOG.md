@@ -8,7 +8,7 @@
 
 - Quantum
 - Quantum Dark
-- Quantum bordered
-- Quantum Dark bordered
-- Quantum non-italicized
-- Quantum Dark non-italicized
+- Quantum Bordered
+- Quantum Dark Bordered
+- Quantum Non-Italicized
+- Quantum Dark Non-Italicized

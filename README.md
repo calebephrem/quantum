@@ -1,16 +1,16 @@
-# ⚛️ QUANTUM THEME FOR VSCODE!
+# QUANTUM THEME FOR VSCODE!
 
-The best blue, lime, yellow, purple and cyan color comboed theme!
+🎨 The best blue, lime, yellow, purple and cyan color comboed theme!
 
 ![Preview](https://github.com/calebephrem/quantum/blob/main/assets/preview.png)
 
-## 🎨 The Quantum ~~Physics~~ Theme ...
+## 🎨 The Theme
 
 - Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
 
-- If you want to see more semi-transparent borders in your workplace, there is also bordered versions of the theme: **Quantum (bordered)** and **Quantum Dark (bordered)**.
+- If you want to see more semi-transparent borders in your workplace, there is bordered versions of the theme: **Quantum Bordered** and **Quantum Dark Bordered**.
 
-- If you don't want to see italic (cursive) fonts in your code, there are themes included for you too: **Quantum (non-italicized)** and also **Quantum Dark (non-italicized)**.
+- If you don't want to see italic fonts in your code, there are themes included for you too: **Quantum Non-Italicized** and also **Quantum Dark Non-Italicized**.
 
 - Generally, Quantum theme provides:
 
@@ -73,7 +73,7 @@ These are just settings that are recommended to make the theme even look better 
 
 Edit these in _settings.json_ file in your VS Code. Expand the command palette (`ctrl+shift+P`) and search `Preferences: Open User Settings (JSON)`.
 
-The settings under _optional_ are the settings that you can add if you want, but you can also ignore if you don't want them (the ones under _optional_ are not that important 🙃).
+The settings under _optional_ are the settings that you can add if you want, but you can also ignore if you don't want them (the ones under _optional_ are not that important 🙃)
 
 ```jsonc
 {
@@ -123,13 +123,6 @@ The settings under _optional_ are the settings that you can add if you want, but
   "editor.minimap.enabled": false,
   "workbench.panel.showLabels": false,
   "editor.padding.top": 20,
-  "files.autoSave": "off",
-  "editor.acceptSuggestionOnEnter": "off",
-  "explorer.confirmDragAndDrop": false,
-  "terminal.integrated.enableMultiLinePasteWarning": "never",
-  "editor.quickSuggestions": {
-    "strings": "inline"
-  },
   // Additional settings for macOS
   "workbench.fontAliasing": "auto",
   "workbench.statusBar.feedback.visible": false
@@ -144,7 +137,7 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/css-scss.png)
 
-### Nodejs + mongodb (default playground template)
+### Nodejs + mongodb
 
 ![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/node-mongo.png)
 
@@ -156,7 +149,9 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/html-markdown.png)
 
-🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use.
+---
+
+🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use, so feel free to open an issue.
 
 ⭐ Don't forget to [star the repo](https://github.com/calebephrem/quantum) to support me! Thanks 😁
 

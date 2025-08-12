@@ -33,8 +33,6 @@
     "dark theme",
     "blue",
     "blue theme",
-    "lime",
-    "lime theme",
     "shades of blue"
   ],
   "contributes": {
@@ -50,22 +48,22 @@
         "path": "./themes/Quantum-dark.json"
       },
       {
-        "label": "Quantum (bordered)",
+        "label": "Quantum Bordered",
         "uiTheme": "vs-dark",
         "path": "./themes/Quantum-bordered.json"
       },
       {
-        "label": "Quantum Dark (bordered)",
+        "label": "Quantum Dark Bordered",
         "uiTheme": "vs-dark",
         "path": "./themes/Quantum-dark-bordered.json"
       },
       {
-        "label": "Quantum (non-italicized)",
+        "label": "Quantum Non-Italicized",
         "uiTheme": "vs-dark",
         "path": "./themes/Quantum-non-italicized.json"
       },
       {
-        "label": "Quantum Dark (non-italicized)",
+        "label": "Quantum Dark Non-Italicized",
         "uiTheme": "vs-dark",
         "path": "./themes/Quantum-dark-non-italicized.json"
       }
