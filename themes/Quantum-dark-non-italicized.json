@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#1972d2",
-    "foreground": "#c5c5dd",
+    "foreground": "#c7c7d7",
     "widget.shadow": "#00000080",
     "selection.background": "#409fff4d",
     "icon.foreground": "#aaaaaa",
@@ -101,18 +101,18 @@
     "editorLineNumber.foreground": "#6c7380aa",
     "editorLineNumber.activeForeground": "#1972d2",
     "editorCursor.foreground": "#00ffff",
-    "editor.selectionBackground": "#409fff27",
-    "editor.inactiveSelectionBackground": "#409fff17",
+    "editor.selectionBackground": "#409fff2a",
+    "editor.inactiveSelectionBackground": "#409fff23",
     "editor.selectionHighlightBackground": "#7fd96226",
     "editor.selectionHighlightBorder": "#7fd96200",
     "editor.wordHighlightBackground": "#73b8ff14",
     "editor.wordHighlightStrongBackground": "#7fd96214",
     "editor.wordHighlightBorder": "#73b8ff80",
     "editor.wordHighlightStrongBorder": "#7fd96280",
-    "editor.findMatchBackground": "#6c5980",
-    "editor.findMatchBorder": "#6c5980",
-    "editor.findMatchHighlightBackground": "#6c598066",
-    "editor.findMatchHighlightBorder": "#5f4c7266",
+    "editor.findMatchBackground": "#24257f",
+    "editor.findMatchBorder": "#24257f",
+    "editor.findMatchHighlightBackground": "#24257f88",
+    "editor.findMatchHighlightBorder": "#24257f88",
     "editor.findRangeHighlightBackground": "#6c598040",
     "editor.rangeHighlightBackground": "#6c598033",
     "editor.lineHighlightBackground": "#24256050",
@@ -125,12 +125,12 @@
     "editorCodeLens.foreground": "#acb6bf8c",
     "editorBracketMatch.background": "#6c73804d",
     "editorBracketMatch.border": "#6c73804d",
-    "editorBracketHighlight.foreground1": "#ffdd70",
+    "editorBracketHighlight.foreground1": "#ffdf7f",
     "editorBracketHighlight.foreground3": "#3f9fff",
     "editorBracketHighlight.foreground2": "#cf5fff",
     "editorBracketHighlight.foreground4": "#7fef6f",
     "editorBracketHighlight.foreground5": "#8672ff",
-    "editorBracketHighlight.foreground6": "#00ccdd",
+    "editorBracketHighlight.foreground6": "#0fcfdf",
     "editor.snippetTabstopHighlightBackground": "#7fd96233",
     "editorOverviewRuler.border": "#1e232b",
     "editorOverviewRuler.modifiedForeground": "#73b8ff",
@@ -210,11 +210,11 @@
     "welcomePage.tileBackground": "#040520",
     "welcomePage.progress.background": "#131721",
     "walkThrough.embeddedEditorBackground": "#0f131a",
-    "gitDecoration.untrackedResourceForeground": "#60a0e0ee",
-    "gitDecoration.addedResourceForeground": "#10c090ee",
-    "gitDecoration.modifiedResourceForeground": "#00c0d0ee",
-    "gitDecoration.deletedResourceForeground": "#f08090ee",
-    "gitDecoration.ignoredResourceForeground": "#b0b0b0ee",
+    "gitDecoration.untrackedResourceForeground": "#90b0ffee",
+    "gitDecoration.addedResourceForeground": "#20cfa0ee",
+    "gitDecoration.modifiedResourceForeground": "#00cfdfee",
+    "gitDecoration.deletedResourceForeground": "#ff8090ee",
+    "gitDecoration.ignoredResourceForeground": "#c7c7d7d0ee",
     "gitDecoration.submoduleResourceForeground": "#d0a0f0ee",
     "settings.headerForeground": "#dddddd",
     "settings.modifiedItemIndicator": "#8972d2",
@@ -295,7 +295,7 @@
       "name": "Variable",
       "scope": ["variable", "variable.parameter.function-call"],
       "settings": {
-        "foreground": "#c0c0e0"
+        "foreground": "#c0c0ff"
       }
     },
     {
@@ -479,7 +479,7 @@
       "name": "Object Property",
       "scope": ["variable.other.property"],
       "settings": {
-        "foreground": "#9090ff"
+        "foreground": "#9999ff"
       }
     },
     {
@@ -549,7 +549,7 @@
     },
     {
       "name": "Ruby class methods",
-      "scope": ["source.ruby variable.other.readwrite"],
+      "scope": ["variable.other.readwrite.class.ruby"],
       "settings": {
         "foreground": "#ffdd70"
       }
@@ -664,7 +664,7 @@
         "variable.parameter.keyframe-list.scss"
       ],
       "settings": {
-        "foreground": "#8683f9"
+        "foreground": "#9090ff"
       }
     },
     {
@@ -691,7 +691,7 @@
       "name": "Python magic methods ex. __contains__()",
       "scope": ["support.function.magic.python"],
       "settings": {
-        "foreground": "#8683f9"
+        "foreground": "#9090ff"
       }
     },
     {

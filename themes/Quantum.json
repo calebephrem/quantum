@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#1972d2",
-    "foreground": "#c5c5dd",
+    "foreground": "#c7c7d7",
     "widget.shadow": "#00000080",
     "selection.background": "#409fff4d",
     "icon.foreground": "#cccccc",
@@ -100,18 +100,18 @@
     "editorLineNumber.foreground": "#6c7380aa",
     "editorLineNumber.activeForeground": "#1972d2",
     "editorCursor.foreground": "#00ffff",
-    "editor.selectionBackground": "#409fff2a",
-    "editor.inactiveSelectionBackground": "#409fff1a",
+    "editor.selectionBackground": "#409fff30",
+    "editor.inactiveSelectionBackground": "#409fff27",
     "editor.selectionHighlightBackground": "#7fd96226",
     "editor.selectionHighlightBorder": "#fff",
     "editor.wordHighlightBackground": "#409fff00",
     "editor.wordHighlightStrongBackground": "#7fd96214",
     "editor.wordHighlightBorder": "#73b8ff80",
     "editor.wordHighlightStrongBorder": "#7fd96280",
-    "editor.findMatchBackground": "#6c5980",
-    "editor.findMatchBorder": "#6c5980",
-    "editor.findMatchHighlightBackground": "#6c598066",
-    "editor.findMatchHighlightBorder": "#5f4c7266",
+    "editor.findMatchBackground": "#24257f",
+    "editor.findMatchBorder": "#24257f",
+    "editor.findMatchHighlightBackground": "#24257f88",
+    "editor.findMatchHighlightBorder": "#24257f88",
     "editor.findRangeHighlightBackground": "#6c598040",
     "editor.rangeHighlightBackground": "#6c598033",
     "editor.lineHighlightBackground": "#040540d0",
@@ -124,12 +124,12 @@
     "editorCodeLens.foreground": "#acb6bf8c",
     "editorBracketMatch.background": "#409fff40",
     "editorBracketMatch.border": "#00ff0055",
-    "editorBracketHighlight.foreground1": "#ffdd70",
+    "editorBracketHighlight.foreground1": "#ffdf7f",
     "editorBracketHighlight.foreground3": "#3f9fff",
     "editorBracketHighlight.foreground2": "#cf5fff",
     "editorBracketHighlight.foreground4": "#7fef6f",
-    "editorBracketHighlight.foreground5": "#8672ff",
-    "editorBracketHighlight.foreground6": "#00ccdd",
+    "editorBracketHighlight.foreground5": "#8f7fff",
+    "editorBracketHighlight.foreground6": "#0fcfdf",
     "editor.snippetTabstopHighlightBackground": "#7fd96233",
     "editorOverviewRuler.border": "#1e232b",
     "editorOverviewRuler.modifiedForeground": "#73b8ff",
@@ -209,11 +209,11 @@
     "welcomePage.tileBackground": "#040535",
     "welcomePage.progress.background": "#131721",
     "walkThrough.embeddedEditorBackground": "#0f131a",
-    "gitDecoration.untrackedResourceForeground": "#60a0e0",
-    "gitDecoration.addedResourceForeground": "#10c090",
-    "gitDecoration.modifiedResourceForeground": "#00c0d0",
-    "gitDecoration.deletedResourceForeground": "#f08090",
-    "gitDecoration.ignoredResourceForeground": "#b0b0b0",
+    "gitDecoration.untrackedResourceForeground": "#90b0ff",
+    "gitDecoration.addedResourceForeground": "#20cfa0",
+    "gitDecoration.modifiedResourceForeground": "#00cfdf",
+    "gitDecoration.deletedResourceForeground": "#ff8090",
+    "gitDecoration.ignoredResourceForeground": "#c7c7d7d0",
     "gitDecoration.submoduleResourceForeground": "#d0a0f0",
     "settings.headerForeground": "#dddddd",
     "settings.modifiedItemIndicator": "#8972d2",
@@ -294,7 +294,7 @@
       "name": "Variable",
       "scope": ["variable", "variable.parameter.function-call"],
       "settings": {
-        "foreground": "#c0c0e0"
+        "foreground": "#c0c0ff"
       }
     },
     {
@@ -501,7 +501,7 @@
       "name": "Object Property",
       "scope": ["variable.other.property"],
       "settings": {
-        "foreground": "#8683f9"
+        "foreground": "#9999ff"
       }
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "name": "Ruby class methods",
-      "scope": ["source.ruby variable.other.readwrite"],
+      "scope": ["variable.other.readwrite.class.ruby"],
       "settings": {
         "foreground": "#ffdd70"
       }
@@ -691,7 +691,7 @@
         "variable.parameter.keyframe-list.scss"
       ],
       "settings": {
-        "foreground": "#8683f9"
+        "foreground": "#9090ff"
       }
     },
     {
@@ -715,10 +715,17 @@
       }
     },
     {
+      "name": "JavaScript async keyword",
+      "scope": ["storage.modifier.async"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Python magic methods ex. __contains__()",
       "scope": ["support.function.magic.python"],
       "settings": {
-        "foreground": "#8683f9"
+        "foreground": "#9090ff"
       }
     },
     {
