@@ -2,7 +2,7 @@
 
 🎨 The best blue, lime, yellow, purple and cyan color comboed theme!
 
-![Preview](https://github.com/calebephrem/quantum/blob/main/assets/preview.png)
+![Preview](https://github.com/calebephrem/quantum/blob/main/assets/preview.png?raw=true)
 
 ## 🎨 The Theme
 
@@ -135,19 +135,19 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ### CSS + SCSS
 
-![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/css-scss.png)
+![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/css-scss.png?raw=true)
 
 ### Nodejs + mongodb
 
-![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/node-mongo.png)
+![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/node-mongo.png?raw=true)
 
 ### Python + React
 
-![python+react](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/python-react.png)
+![python+react](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/python-react.png?raw=true)
 
 ### HTML + Markdown
 
-![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/html-markdown.png)
+![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/html-markdown.png?raw=true)
 
 ---
 
