@@ -6,50 +6,45 @@
 
 ## 🎨 The Theme
 
-- Quantum theme comes with 2 versions: **Quantum** and **Quantum Dark**. Both of them are dark themes, but **Quantum Dark** is even darker.
+- 🌌 The **Quantum** theme family includes two core variants: **Quantum** and **Quantum Dark**. Both are dark themes, but **Quantum Dark** takes it a step further with deeper contrast and a more subdued palette.
 
-- If you want to see more semi-transparent borders in your workplace, there is bordered versions of the theme: **Quantum Bordered** and **Quantum Dark Bordered**.
+- 🧱 Prefer a bit more structure? Try the bordered editions: **Quantum Bordered** and **Quantum Dark Bordered**. These add semi-transparent borders to panels and editors for a subtle, organized feel.
 
-- If you don't want to see italic fonts in your code, there are themes included for you too: **Quantum Non-Italicized** and also **Quantum Dark Non-Italicized**.
+- 🚫 Not a fan of italic fonts? No problem. The **Non-Italicized** variants—**Quantum Non-Italicized** and **Quantum Dark Non-Italicized**—keep everything upright and crisp, perfect for a cleaner coding experience.
 
-- Generally, Quantum theme provides:
+- 🧠 Generally, Quantum theme provides:
 
 <table>
   <thead>
-    <th>Theme</th>
-    <th>Description</th>
-    <th></th>
+    <tr>
+      <th>🌟 Theme</th>
+      <th>📝 Description</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Quantum</td>
-      <td>Default, preferred, legendary</td>
-      <td>💪</td>
+      <td><strong>Quantum</strong></td>
+      <td>⚡ The original. Default, preferred, legendary. A balanced blend of vibrance and clarity.</td>
     </tr>
     <tr>
-      <td>Quantum Dark</td>
-      <td>Darker version of "Quantum"</td>
-      <td>👻</td>
+      <td><strong>Quantum Dark</strong></td>
+      <td>🌑 A deeper dive into Quantum—same vibe, darker tones. Ideal for night owls and moody coders.</td>
     </tr>
     <tr>
-      <td>Quantum Bordered</td>
-      <td>Perfect clone of "Quantum", but with additional borders</td>
-      <td>🤠</td>
+      <td><strong>Quantum Bordered</strong></td>
+      <td>🧱 Quantum with a twist—adds subtle borders for enhanced visual structure.</td>
     </tr>
     <tr>
-      <td>Quantum Dark Bordered</td>
-      <td>Quantum Dark + additional borders</td>
-      <td>🚫</td>
+      <td><strong>Quantum Dark Bordered</strong></td>
+      <td>🕶️ Combines the depth of Quantum Dark with the crispness of borders. Sleek and structured.</td>
     </tr>
     <tr>
-      <td>Quantum Non-Italicized</td>
-      <td>Quantum theme for italic haters</td>
-      <td>😼</td>
+      <td><strong>Quantum Non-Italicized</strong></td>
+      <td>🚫 <em>No slants allowed.</em> A clean-cut version of Quantum for those who prefer upright fonts.</td>
     </tr>
     <tr>
-      <td>Quantum Dark Non-Italicized</td>
-      <td>Italic-less version of Quantum Dark</td>
-      <td>🥸</td>
+      <td><strong>Quantum Dark Non-Italicized</strong></td>
+      <td>🌘 The bold, italic-free sibling of Quantum Dark. Minimalist and moody.</td>
     </tr>
   </tbody>
 </table>
@@ -69,11 +64,17 @@
 
 ## ⚙️ Recommended Settings
 
-These are just settings that are recommended to make the theme even look better ✨
+### ✨ Recommended Settings for Maximum Quantum Vibes
 
-Edit these in _settings.json_ file in your VS Code. Expand the command palette (`ctrl+shift+P`) and search `Preferences: Open User Settings (JSON)`.
+Want to make Quantum look even better? These are some hand-picked tweaks to elevate your workspace aesthetics.
 
-The settings under _optional_ are the settings that you can add if you want, but you can also ignore if you don't want them (the ones under _optional_ are not that important 🙃)
+🛠️ To apply them:
+
+1. Open your command palette (`Ctrl+Shift+P`)
+2. Search for `Preferences: Open User Settings (JSON)`
+3. Edit the recommended settings into your `settings.json` file
+
+💡 **Optional settings** are just that—optional! Feel free to skip them if they’re not your style. They add a little extra flair, but nothing critical 🙃
 
 ```jsonc
 {
@@ -151,8 +152,16 @@ The settings under _optional_ are the settings that you can add if you want, but
 
 ---
 
-🧐 Please let me know if you've caught some kinda funky color, because this theme is new, and there are so many languages and VS Code parts that I don't use, so feel free to open an issue.
+### 🚀 Final Notes
 
-⭐ Don't forget to [star the repo](https://github.com/calebephrem/quantum) to support me! Thanks 😁
+🧐 If you spot any funky colors or odd styling quirks—especially in languages or VS Code areas I haven’t tested—please don’t hesitate to [open an issue](https://github.com/calebephrem/quantum/issues). Quantum is still fresh, and your feedback helps it grow stronger!
 
-### Enjoy! 😎
+🌟 If you’re enjoying the theme, show some love with:
+
+- ⭐ Giving the [repo](https://github.com/calebephrem/quantum) a star
+- ✨ Rating it 5 stars on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CalebEphrem.quantum)
+- 💬 Drop a review if you feel inspired!
+
+Thanks a ton for the support 😁
+
+### Enjoy coding! 😎
