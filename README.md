@@ -152,6 +152,15 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 
 ---
 
+### 📄 License
+
+Quantum is MIT-based with extra restrictions:
+
+- No selling
+- No removing the license or claiming authorship
+
+See the full [LICENSE](./LICENSE) for details.
+
 ### 🚀 Final Notes
 
 🧐 If you spot any funky colors or odd styling quirks—especially in languages or VS Code areas I haven’t tested—please don’t hesitate to [open an issue](https://github.com/calebephrem/quantum/issues). Quantum is still fresh, and your feedback helps it grow stronger!
