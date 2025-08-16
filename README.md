@@ -52,7 +52,7 @@
 ## ⬇️ Installation
 
 1. Open Extensions by clicking on the extension icon on the left sidebar panel in your VS Code
-2. Search **Quantum**
+2. Search **Quantum Theme**
 3. Install the one by _Caleb Ephrem_
 4. Press `ctrl+shift+P` to expand the command palette (`cmd+shift+P` on mac)
 5. Go under `Preferences: Color Theme`
@@ -62,9 +62,7 @@
 
 🔥 Walla! You have the Quantum theme activated! ⚡
 
-## ⚙️ Recommended Settings
-
-### ✨ Recommended Settings for Maximum Quantum Vibes
+## ✨ Recommended Settings for Maximum Quantum Vibes
 
 Want to make Quantum look even better? These are some hand-picked tweaks to elevate your workspace aesthetics.
 
@@ -149,6 +147,12 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 ### HTML + Markdown
 
 ![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/html-markdown.png?raw=true)
+
+### Terminal + Shell Script
+
+![terminal+shell](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/terminal-shell.png?raw=true)
+
+> If you like the zsh setup, give your terminal a futuristic glow-up with Quantum zsh theme: https://github.com/calebephrem/quantum-zsh
 
 ---
 
