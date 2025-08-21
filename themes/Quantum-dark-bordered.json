@@ -215,7 +215,7 @@
     "gitDecoration.addedResourceForeground": "#20cfa0ee",
     "gitDecoration.modifiedResourceForeground": "#00cfdfee",
     "gitDecoration.deletedResourceForeground": "#ff8090ee",
-    "gitDecoration.ignoredResourceForeground": "#c7c7d7d0ee",
+    "gitDecoration.ignoredResourceForeground": "#909090ee",
     "gitDecoration.submoduleResourceForeground": "#d0a0f0ee",
     "settings.headerForeground": "#dddddd",
     "settings.modifiedItemIndicator": "#8972d2",
