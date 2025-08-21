@@ -38,15 +38,37 @@
       <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true" /></a>
     </td>
   </tr>
+  <tr>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Mirage</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage.png?raw=true" /></a>
+    </td>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Mirage Bordered</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-bordered.png?raw=true" /></a>
+    </td>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Mirage Non-Italicized</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-non-italicized.png?raw=true" /></a>
+    </td>
+  </tr>
 </table>
 
 ## 🎨 The Theme
 
-- 🌌 The **Quantum** theme family includes two core variants: **Quantum** and **Quantum Dark**. Both are dark themes, but **Quantum Dark** takes it a step further with deeper contrast and a more subdued palette.
+- 🌌 The Quantum theme family now spans three distinct vibes: Quantum, Quantum Dark, and Quantum Mirage. All embrace the elegance of dark mode, but each adds its own twist—
 
-- 🧱 Prefer a bit more structure? Try the bordered editions: **Quantum Bordered** and **Quantum Dark Bordered**. These add semi-transparent borders to panels and editors for a subtle, organized feel.
+  - ⚡ Quantum keeps things sleek and balanced
+  - 🕶️ Quantum Dark dives deeper with bold contrast
+  - ☁️ Quantum Mirage floats in with a dreamy, translucent palette
 
-- 🚫 Not a fan of italic fonts? No problem. The **Non-Italicized** variants—**Quantum Non-Italicized** and **Quantum Dark Non-Italicized**—keep everything upright and crisp, perfect for a cleaner coding experience.
+Whether you're coding in clarity, shadow, or shimmer—there’s a Quantum for your mood:
+
+- 🎨 Looking for the purest expression of each theme? Start with the defaults: **Quantum**, **Quantum Dark**, and **Quantum Mirage**. These are the original editions—clean, immersive, and true to their core palettes.
+
+- 🧱 Prefer a bit more structure? Try the bordered editions: **Quantum Bordered**, **Quantum Dark Bordered** and **Quantum Mirage Bordered**. These add semi-transparent borders to panels and editors for a subtle, organized feel.
+
+- 🚫 Not a fan of italic fonts? No problem. The non-italicized variants—**Quantum Non-Italicized**, **Quantum Dark Non-Italicized** and **Quantum Mirage Non-Italicized**—keep everything upright and crisp, perfect for a cleaner coding experience.
 
 - 🧠 Generally, Quantum theme provides:
 
@@ -60,27 +82,39 @@
   <tbody>
     <tr>
       <td><strong>Quantum</strong></td>
-      <td>⚡ The original. Default, preferred, legendary. A balanced blend of vibrance and clarity.</td>
+      <td>⚡ The original and most remixable. Quantum delivers a crisp, vibrant coding experience with balanced contrast and a palette that feels both modern and timeless. Ideal for those who want clarity without clutter.</td>
     </tr>
     <tr>
       <td><strong>Quantum Dark</strong></td>
-      <td>🌑 A deeper dive into Quantum—same vibe, darker tones. Ideal for night owls and moody coders.</td>
+      <td>🌑 A deeper dive into the Quantum aesthetic. With richer shadows and muted tones, Quantum Dark is perfect for late-night sessions or anyone who prefers a more atmospheric workspace without sacrificing readability.</td>
+    </tr>
+    <tr>
+      <td><strong>Quantum Mirage</strong></td>
+      <td>🌫️ A dreamy, translucent take on the Quantum palette. Mirage softens the edges and introduces a misty, ethereal feel—ideal for those who want their editor to feel like a calm creative space.</td>
     </tr>
     <tr>
       <td><strong>Quantum Bordered</strong></td>
-      <td>🧱 Quantum with a twist—adds subtle borders for enhanced visual structure.</td>
+      <td>🧱 Adds semi-transparent borders to panels and editors for a subtle sense of structure. Quantum Bordered keeps the original vibe but introduces a touch of visual hierarchy for those who like their UI a bit more defined.</td>
     </tr>
     <tr>
       <td><strong>Quantum Dark Bordered</strong></td>
-      <td>🕶️ Combines the depth of Quantum Dark with the crispness of borders. Sleek and structured.</td>
+      <td>🕶️ Combines the moody depth of Quantum Dark with clean, understated borders. It’s sleek, organized, and ideal for coders who want both ambiance and alignment in their workspace.</td>
+    </tr>
+    <tr>
+      <td><strong>Quantum Mirage Bordered</strong></td>
+      <td>🪞 Mirage with structure. This version adds gentle borders to the soft Mirage aesthetic, giving just enough definition to panels while preserving the theme’s ambient glow.</td>
     </tr>
     <tr>
       <td><strong>Quantum Non-Italicized</strong></td>
-      <td>🚫 <em>No slants allowed.</em> A clean-cut version of Quantum for those who prefer upright fonts.</td>
+      <td>🚫 <em>No slants allowed.</em> This upright version of Quantum removes all italic styling for a more neutral, typographically strict look. Great for those who prefer a minimalist, distraction-free font experience.</td>
     </tr>
     <tr>
       <td><strong>Quantum Dark Non-Italicized</strong></td>
-      <td>🌘 The bold, italic-free sibling of Quantum Dark. Minimalist and moody.</td>
+      <td>🌘 The bold, italic-free sibling of Quantum Dark. It’s moody, clean, and perfect for developers who want a serious tone with zero font flair.</td>
+    </tr>
+    <tr>
+      <td><strong>Quantum Mirage Non-Italicized</strong></td>
+      <td>🌁 A slant-free version of Mirage for those who love the soft tones but prefer their fonts upright and formal. It’s gentle on the eyes and strict on the type.</td>
     </tr>
   </tbody>
 </table>
@@ -188,7 +222,7 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 
 ![terminal+shell](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/terminal-shell.png?raw=true)
 
-> If you like the zsh setup, give your terminal a futuristic glow-up with Quantum zsh theme: https://github.com/calebephrem/quantum-zsh
+> If you like the zsh setup, give your terminal a futuristic glow-up with [Quantum Zsh Theme](https://github.com/calebephrem/quantum-zsh)
 
 ---
 
@@ -197,7 +231,7 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 Quantum is MIT-based with extra restrictions:
 
 - No selling
-- No removing the license or claiming authorship
+- No removing the license
 
 See the full [LICENSE](./LICENSE) for details.
 
@@ -213,4 +247,4 @@ See the full [LICENSE](./LICENSE) for details.
 
 Thanks a ton for the support 😁
 
-### Enjoy coding! 😎
+### Happy coding! 😎

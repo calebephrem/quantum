@@ -216,7 +216,7 @@
     "gitDecoration.ignoredResourceForeground": "#b0b0c0d0",
     "gitDecoration.submoduleResourceForeground": "#d0a0f0",
     "settings.headerForeground": "#dddddd",
-    "settings.modifiedItemIndicator": "#8972d2",
+    "settings.modifiedItemIndicator": "#1972d2",
     "keybindingLabel.background": "#1972d211",
     "keybindingLabel.foreground": "#bbbbcc",
     "keybindingLabel.border": "#1972d222",

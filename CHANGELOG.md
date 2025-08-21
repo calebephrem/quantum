@@ -1,14 +1,26 @@
 # Change Log
 
+## `v2.0.0`
+
+### ✨ Introduced
+
+- Quantum Mirage
+- Quantum Mirage Bordered
+- Quantum Mirage Non-Italicized
+
+### 🛠️ Fixed
+
+- Quantum Dark family git ignore resource foreground
+
 ## `v1.0.3`
 
-## 🚀 Enhanced
+### 🚀 Enhanced
 
 - Update logo
 
 ## `v1.0.2`
 
-## 🚀 Enhanced
+### 🚀 Enhanced
 
 - Update README.md
 
