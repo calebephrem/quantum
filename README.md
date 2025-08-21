@@ -1,8 +1,44 @@
-# QUANTUM THEME FOR VSCODE!
+<br />
+<div align="center">
 
-🎨 The best blue, lime, yellow, purple and cyan color comboed theme!
+  <img src="https://github.com/calebephrem/quantum/blob/main/assets/icon.png?raw=true" alt="Quantum Theme" width="150" height="150" />
 
-![Preview](https://github.com/calebephrem/quantum/blob/main/assets/preview.png?raw=true)
+  <p align="center" style="margin-top: 12px;">
+    <strong><small>SHINE DIVINE, IN EVERY LINE</small></strong>
+  </p>
+  
+</div>
+
+<table style="width:100%; table-layout: fixed; border-collapse: separate; border-spacing: 24px;">
+  <tr>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Default</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum.png?raw=true" /></a>
+    </td>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Bordered</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-bordered.png?raw=true" /></a>
+    </td>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Non-Italicized</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-non-italicized.png?raw=true" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Dark</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark.png?raw=true" /></a>
+    </td>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Dark Bordered</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-bordered.png?raw=true" /></a>
+    </td>
+    <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
+      <h4>Dark Non-Italicized</h4>
+      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 🎨 The Theme
 
