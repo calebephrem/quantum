@@ -10,22 +10,21 @@
 
 ### 🛠️ Fixed
 
-- Quantum Dark family git ignore resource foreground
+- Fixed foreground color for Git-ignored resources in the Quantum Dark family
 
 ## `v1.0.3`
 
 ### 🚀 Enhanced
 
-- Update logo
+- Updated logo
 
 ## `v1.0.2`
 
 ### 🚀 Enhanced
 
-- Update README.md
+- Updated README.md
 
   - Additional links
-  - More emojis
   - Add license section
 
 - Update LICENSE

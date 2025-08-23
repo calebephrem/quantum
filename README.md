@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 
-  <img src="https://github.com/calebephrem/quantum/blob/main/assets/icon.png?raw=true" alt="Quantum Theme" width="150" height="150" />
+  <img src="https://github.com/calebephrem/quantum/blob/main/assets/icon.png?raw=true" alt="Quantum Theme" width="200" height="200" />
 
   <p align="center" style="margin-top: 12px;">
     <strong><small>SHINE DIVINE, IN EVERY LINE</small></strong>
@@ -126,11 +126,11 @@ Whether you're coding in clarity, shadow, or shimmer—there’s a Quantum for y
 3. Install the one by _Caleb Ephrem_
 4. Press `ctrl+shift+P` to expand the command palette (`cmd+shift+P` on mac)
 5. Go under `Preferences: Color Theme`
-6. Search **Quantum**
+6. Search for **Quantum**
 7. Then click on **Quantum** (or other variants of it)
-8. Give the [repo](https://github.com/calebephrem/quantum) a ⭐star
+8. Give the [repo](https://github.com/calebephrem/quantum) a ⭐ star
 
-🔥 Walla! You have the Quantum theme activated! ⚡
+🔥 Voilà! You have the Quantum theme activated! ⚡
 
 ## ✨ Recommended Settings for Maximum Quantum Vibes
 
@@ -154,7 +154,7 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
   "workbench.iconTheme": "material-icon-theme",
   "material-icon-theme.hidesExplorerArrows": true,
   "material-icon-theme.files.color": "#9fafaf",
-  // If you want folders to look similar to windows folder, instead of #40a0f0 use #e0c060
+  // Use #e0c060 instead of #40a0f0 for Windows-style folder colors
   "material-icon-theme.folders.color": "#40a0f0",
 
   // Appearance
@@ -228,7 +228,7 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 
 ### 📄 License
 
-Quantum is MIT-based with extra restrictions:
+Quantum theme uses a modified MIT license with the following additional restrictions:
 
 - No selling
 - No removing the license

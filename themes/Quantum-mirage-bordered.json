@@ -1,5 +1,5 @@
 {
-  "name": "Quantum",
+  "name": "Quantum Mirage Bordered",
   "type": "dark",
   "colors": {
     "focusBorder": "#1972d2",
@@ -13,7 +13,7 @@
     "textLink.foreground": "#80f070",
     "textLink.activeForeground": "#8f7fff",
     "textPreformat.foreground": "#ddddee",
-    "textPreformat.background": "#141550",
+    "textPreformat.background": "#202060",
     "button.background": "#1f2faf",
     "button.foreground": "#ddddff",
     "button.hoverBackground": "#2f3fbf",
